@@ -45,3 +45,15 @@ Hand Pose: Pytorch is a breeze but i still have some confusion around the dimens
 DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/6d77a0025448415fd4e6fecd445408a3cdf8f581)
+
+### Day 4: 11 June 2018
+
+**Today's Progress**:  
+Hand Pose: Added intermediate code for training and testing. Dataloading and REN code completed.
+DotA_Predictor: Didnt do much work on it today.
+
+**Thoughts:**  
+Hand Pose: Not much, happy to be working with pytorch. Hope my implementation of the REN and data loading is accurate. will probably need to refactor.
+DotA_Predictor: -
+
+**Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/15fd004811b16f566e8c663a3db37557e762b378)
