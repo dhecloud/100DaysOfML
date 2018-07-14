@@ -81,3 +81,15 @@ Hand Pose: Work on depth images isnt as widespread as RGB. Hope i can figure out
 DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/4c111778ed2f1ae0dcc04dc7d6d5194a6cb69c56)
+
+### Day 7: 14 June 2018
+
+**Today's Progress**:  
+Hand Pose: Added testing code for drawing pose. Still figuring out how to do the augmentation.   
+DotA_Predictor: Didnt do much work on it today. 
+
+**Thoughts:**  
+Hand Pose: Training is going pretty well, but the accuracy is limited by the lack of augmentation of the depth images.  
+DotA_Predictor: -
+
+**Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/e8e73a714248f3c2104b7577cb132ddff3fee856)
