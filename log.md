@@ -69,3 +69,15 @@ Hand Pose: For a while i could not figure out the reason for the exploding gradi
 DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/86e66dd26d575c648c3b52f7929e8c6fac8bb8e1)
+
+### Day 6: 13 June 2018
+
+**Today's Progress**:  
+Hand Pose: Added random sampling code. Spent some time trying to figure how to augment depth images. Tuned hyper params.  
+DotA_Predictor: Didnt do much work on it today. 
+
+**Thoughts:**  
+Hand Pose: Work on depth images isnt as widespread as RGB. Hope i can figure out how to apply translations/scalings/rotations on normalized data.  
+DotA_Predictor: -
+
+**Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/4c111778ed2f1ae0dcc04dc7d6d5194a6cb69c56)
