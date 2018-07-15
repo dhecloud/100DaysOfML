@@ -93,3 +93,15 @@ Hand Pose: Training is going pretty well, but the accuracy is limited by the lac
 DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/e8e73a714248f3c2104b7577cb132ddff3fee856)
+
+### Day 8: 15 June 2018
+
+**Today's Progress**:  
+Hand Pose: Added preliminary code for data augmentation.  
+DotA_Predictor: Didnt do much work on it today. 
+
+**Thoughts:**  
+Hand Pose: Augmentation is taking pretty long. Need to figure out how to speed it up.  
+DotA_Predictor: -
+
+**Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f4d2f82532593bb78b15f92cd1172a36f9625c0f)
