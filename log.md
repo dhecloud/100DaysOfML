@@ -105,3 +105,15 @@ Hand Pose: Augmentation is taking pretty long. Need to figure out how to speed i
 DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f4d2f82532593bb78b15f92cd1172a36f9625c0f)
+
+### Day 9: 16 June 2018
+
+**Today's Progress**:  
+Hand Pose: Data augmentation into h5py done, changing (x,y,z) into (u,v,d) ground truth also done.  
+DotA_Predictor: Didnt do much work on it today. 
+
+**Thoughts:**  
+Hand Pose: TIL a few things. 1. That x,y,z were not interchangable, and 2. Not to load all the augmentated images into memory. Need to redo data loading code to load from h5py or possibly just refactor to load from txt.  
+DotA_Predictor: -
+
+**Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/1cf5635140af709b0a3207619366a84d224ffd0d)
