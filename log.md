@@ -1,6 +1,6 @@
 # 100 Days Of ML Code
 
-### Day 0: 7 June 2018
+### Day 0: 7 July 2018
 
 **Today's Progress**:  
 Hand Pose: Worked on understanding dlib's extract layer and wrote some testing code to figure out how offset in the parameters affected the output.
@@ -10,7 +10,7 @@ Hand Pose: Took longer than expected for this portion of the code due to the lac
 
 **Link to work:** [Commit](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/b982bb94a330a486e6ae90e208f7c562e1b4c966)
 
-### Day 1: 8 June 2018
+### Day 1: 8 July 2018
 
 **Today's Progress**:  
 Hand Pose: Managed to implement dlib's extract layer. However i am changing from dlib to caffe for my implementation so will stop on implementing dlib. Spent some time installing caffe.  
@@ -22,7 +22,7 @@ DotA_Predictor: Quite surprised by the amount of resources available for getting
 
 **Link to work:** [(very messy Hand Pose Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/4c152873f2d90f28a1d33eccc5e180f9d0b9bab2) [(DotA Commit)](https://github.com/dhecloud/DotA_Predictor/commit/ce31ebee589d82fa15163b03f0a2b990eb2f2629)
 
-### Day 2: 9 June 2018
+### Day 2: 9 July 2018
 
 **Today's Progress**:  
 Hand Pose: Gave up on installing pycaffe. will be implementing code in pytorch for hand pose  
@@ -34,7 +34,7 @@ DotA_Predictor: Going to collect about 30k match data before i start retraining 
 
 **Link to work:** [(very messy Hand Pose Commit 2)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f637fdac8665d6add3281fb01ae36f13f306815e) [(DotA Commit)](https://github.com/dhecloud/DotA_Predictor/commit/1b7aa565069ed952e995827a223bb37656c4806e)
 
-### Day 3: 10 June 2018
+### Day 3: 10 July 2018
 
 **Today's Progress**:  
 Hand Pose: Added preliminary code for data loading and the network code for Region Ensemble Network.  
@@ -46,7 +46,7 @@ DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/6d77a0025448415fd4e6fecd445408a3cdf8f581)
 
-### Day 4: 11 June 2018
+### Day 4: 11 July 2018
 
 **Today's Progress**:  
 Hand Pose: Added intermediate code for training and testing. Dataloading and REN code completed.  
@@ -58,7 +58,7 @@ DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/15fd004811b16f566e8c663a3db37557e762b378)
 
-### Day 5: 12 June 2018
+### Day 5: 12 July 2018
 
 **Today's Progress**:  
 Hand Pose: Solving exploding gradient problem and double checked the network architecture. added normalization code.
@@ -70,7 +70,7 @@ DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/86e66dd26d575c648c3b52f7929e8c6fac8bb8e1)
 
-### Day 6: 13 June 2018
+### Day 6: 13 July 2018
 
 **Today's Progress**:  
 Hand Pose: Added random sampling code. Spent some time trying to figure how to augment depth images. Tuned hyper params.  
@@ -82,7 +82,7 @@ DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/4c111778ed2f1ae0dcc04dc7d6d5194a6cb69c56)
 
-### Day 7: 14 June 2018
+### Day 7: 14 July 2018
 
 **Today's Progress**:  
 Hand Pose: Added testing code for drawing pose. Still figuring out how to do the augmentation.   
@@ -94,7 +94,7 @@ DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/e8e73a714248f3c2104b7577cb132ddff3fee856)
 
-### Day 8: 15 June 2018
+### Day 8: 15 July 2018
 
 **Today's Progress**:  
 Hand Pose: Added preliminary code for data augmentation.  
@@ -106,7 +106,7 @@ DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f4d2f82532593bb78b15f92cd1172a36f9625c0f)
 
-### Day 9: 16 June 2018
+### Day 9: 16 July 2018
 
 **Today's Progress**:  
 Hand Pose: Data augmentation into h5py done, changing (x,y,z) into (u,v,d) ground truth also done.  
@@ -117,3 +117,15 @@ Hand Pose: TIL a few things. 1. That x,y,z were not interchangable, and 2. Not t
 DotA_Predictor: -
 
 **Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/1cf5635140af709b0a3207619366a84d224ffd0d)
+
+### Day 10: 17 July 2018
+
+**Today's Progress**:  
+Hand Pose: rewrote `__get_item__` for MSRA dataset class. Commenced training but will need to find a better GPU.  
+DotA_Predictor: Started filtering all pick matches out of the whole list of matches. 
+
+**Thoughts:**  
+Hand Pose: Getting into the flow of code writing seems easier now. Training is currently limited by the 2GB memory GPU which reduces the batch size.. otherwise it could be faster.  
+DotA_Predictor: -
+
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/76927e38e03abad3496c962be803c242a9d8b1e0) [(DotA Commit)](https://github.com/dhecloud/DotA_Predictor/commit/fbeb0acf19079c6cf5b9baf367c721cc8ec32fc5)
