@@ -129,3 +129,17 @@ Hand Pose: Getting into the flow of code writing seems easier now. Training is c
 DotA_Predictor: -
 
 **Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/76927e38e03abad3496c962be803c242a9d8b1e0) [(DotA Commit)](https://github.com/dhecloud/DotA_Predictor/commit/fbeb0acf19079c6cf5b9baf367c721cc8ec32fc5)
+
+### Day 11: 18 July 2018
+
+**Today's Progress**:  
+Hand Pose: Debugged a big mistake on augmenting ground truth joints    
+DotA_Predictor: Didnt do much work on it today.  
+Paper: Started reading the paper on NASNet
+
+**Thoughts:**  
+Hand Pose: Training for 18 hours kinda wasted because the augmentation data was wrong :( The loss however went down. Should include more error metrics to check while training  
+DotA_Predictor: -  
+Paper: Interesting! Cant wait to finish reading it 
+
+**Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/ca39b830f707ee2c3e55e50c1c5e1f34e919008c) [(Paper)](https://arxiv.org/pdf/1707.07012.pdf)
