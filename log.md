@@ -142,4 +142,18 @@ Hand Pose: Training for 18 hours kinda wasted because the augmentation data was 
 DotA_Predictor: -  
 Paper: Interesting! Cant wait to finish reading it 
 
-**Link to work:** [Hand Pose](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/ca39b830f707ee2c3e55e50c1c5e1f34e919008c) [(Paper)](https://arxiv.org/pdf/1707.07012.pdf)
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/ca39b830f707ee2c3e55e50c1c5e1f34e919008c) [(Paper)](https://arxiv.org/pdf/1707.07012.pdf)
+
+### Day 12: 18 July 2018
+
+**Today's Progress**:  
+Hand Pose: fixed joints again (flipped horizontal coordinates)
+DotA_Predictor: Didnt do much work on it today.  
+Paper: Finished reading the paper on NASNet
+
+**Thoughts:**  
+Hand Pose: Training results are pretty good, probably need to train for a longer time 
+DotA_Predictor: -  
+Paper: -
+
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/920a8f92cf56d200c4604f7babfed6b18d72c79a) [(Paper)](https://arxiv.org/pdf/1707.07012.pdf)
