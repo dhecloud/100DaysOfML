@@ -171,3 +171,17 @@ DotA_Predictor: -
 Paper: -
 
 **Link to work:** [Paper](https://arxiv.org/pdf/1312.4659.pdf)
+
+### Day 14: 21 July 2018
+
+**Today's Progress**:  
+Hand Pose: More training
+DotA_Predictor: Didnt do much work on it today.  
+Paper: Finished reading paper on Deep Pose: Human Pose Estimation
+
+**Thoughts:**  
+Hand Pose: -
+DotA_Predictor: -  
+Paper: DeepPose is a generic CNN applied on human pose in 2013. Probably replaced by better architectures. 
+
+**Link to work:** [Paper](https://arxiv.org/pdf/1312.4659.pdf)
