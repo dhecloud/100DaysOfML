@@ -14,7 +14,7 @@ Hand Pose: Took longer than expected for this portion of the code due to the lac
 
 **Today's Progress**:  
 Hand Pose: Managed to implement dlib's extract layer. However i am changing from dlib to caffe for my implementation so will stop on implementing dlib. Spent some time installing caffe.  
-DotA_Predictor: Revived my old DotA predictor project since i think i can make it better. 
+DotA_Predictor: Revived my old DotA predictor project since i think i can make it better.
 
 **Thoughts:**  
 Hand Pose: Even though past weeks of efforts studying dlib were wasted, pretty happy that i get to go back to python. Also wish building libraries on windows was easier..  
@@ -26,7 +26,7 @@ DotA_Predictor: Quite surprised by the amount of resources available for getting
 
 **Today's Progress**:  
 Hand Pose: Gave up on installing pycaffe. will be implementing code in pytorch for hand pose  
-DotA_Predictor: Added data scraping code for open dota for dota predictor project. 
+DotA_Predictor: Added data scraping code for open dota for dota predictor project.
 
 **Thoughts:**  
 Hand Pose: Still wish building on windows was easier.. seem to run into errors at every command.  
@@ -74,7 +74,7 @@ DotA_Predictor: -
 
 **Today's Progress**:  
 Hand Pose: Added random sampling code. Spent some time trying to figure how to augment depth images. Tuned hyper params.  
-DotA_Predictor: Didnt do much work on it today. 
+DotA_Predictor: Didnt do much work on it today.
 
 **Thoughts:**  
 Hand Pose: Work on depth images isnt as widespread as RGB. Hope i can figure out how to apply translations/scalings/rotations on normalized data.  
@@ -86,7 +86,7 @@ DotA_Predictor: -
 
 **Today's Progress**:  
 Hand Pose: Added testing code for drawing pose. Still figuring out how to do the augmentation.   
-DotA_Predictor: Didnt do much work on it today. 
+DotA_Predictor: Didnt do much work on it today.
 
 **Thoughts:**  
 Hand Pose: Training is going pretty well, but the accuracy is limited by the lack of augmentation of the depth images.  
@@ -98,7 +98,7 @@ DotA_Predictor: -
 
 **Today's Progress**:  
 Hand Pose: Added preliminary code for data augmentation.  
-DotA_Predictor: Didnt do much work on it today. 
+DotA_Predictor: Didnt do much work on it today.
 
 **Thoughts:**  
 Hand Pose: Augmentation is taking pretty long. Need to figure out how to speed it up.  
@@ -110,7 +110,7 @@ DotA_Predictor: -
 
 **Today's Progress**:  
 Hand Pose: Data augmentation into h5py done, changing (x,y,z) into (u,v,d) ground truth also done.  
-DotA_Predictor: Didnt do much work on it today. 
+DotA_Predictor: Didnt do much work on it today.
 
 **Thoughts:**  
 Hand Pose: TIL a few things. 1. That x,y,z were not interchangable, and 2. Not to load all the augmentated images into memory. Need to redo data loading code to load from h5py or possibly just refactor to load from txt.  
@@ -122,7 +122,7 @@ DotA_Predictor: -
 
 **Today's Progress**:  
 Hand Pose: rewrote `__get_item__` for MSRA dataset class. Commenced training but will need to find a better GPU.  
-DotA_Predictor: Started filtering all pick matches out of the whole list of matches. 
+DotA_Predictor: Started filtering all pick matches out of the whole list of matches.
 
 **Thoughts:**  
 Hand Pose: Getting into the flow of code writing seems easier now. Training is currently limited by the 2GB memory GPU which reduces the batch size.. otherwise it could be faster.  
@@ -140,7 +140,7 @@ Paper: Started reading the paper on NASNet
 **Thoughts:**  
 Hand Pose: Training for 18 hours kinda wasted because the augmentation data was wrong :( The loss however went down. Should include more error metrics to check while training  
 DotA_Predictor: -  
-Paper: Interesting! Cant wait to finish reading it 
+Paper: Interesting! Cant wait to finish reading it
 
 **Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/ca39b830f707ee2c3e55e50c1c5e1f34e919008c) [(Paper)](https://arxiv.org/pdf/1707.07012.pdf)
 
@@ -152,7 +152,7 @@ DotA_Predictor: Didnt do much work on it today.
 Paper: Finished reading the paper on NASNet
 
 **Thoughts:**  
-Hand Pose: Training results are pretty good, probably need to train for a longer time 
+Hand Pose: Training results are pretty good, probably need to train for a longer time
 DotA_Predictor: -  
 Paper: -
 
@@ -182,6 +182,21 @@ Paper: Finished reading paper on Deep Pose: Human Pose Estimation
 **Thoughts:**  
 Hand Pose: -
 DotA_Predictor: -  
-Paper: DeepPose is a generic CNN applied on human pose in 2013. Probably replaced by better architectures. 
+Paper: DeepPose is a generic CNN applied on human pose in 2013. Probably replaced by better architectures.
 
 **Link to work:** [Paper](https://arxiv.org/pdf/1312.4659.pdf)
+
+### Day 15: 22 July 2018
+
+**Today's Progress**:  
+Hand Pose: Checked testing and validation progress and more training  
+DotA_Predictor: Didnt do much work on it today.  
+Paper: Started and finish reading paper on Real-time Articulated Hand Pose Estimation using Semi-supervised
+Transductive Regression Forests
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: One of the earlier research on hand pose before CNNs. Random forest is something i'm not familiar with, need to do more reading.  
+
+**Link to work:** [Paper](http://openaccess.thecvf.com/content_iccv_2013/papers/Tang_Real-Time_Articulated_Hand_2013_ICCV_paper.pdf)
