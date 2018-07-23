@@ -191,8 +191,7 @@ Paper: DeepPose is a generic CNN applied on human pose in 2013. Probably replace
 **Today's Progress**:  
 Hand Pose: Checked testing and validation progress and more training  
 DotA_Predictor: Didnt do much work on it today.  
-Paper: Started and finish reading paper on Real-time Articulated Hand Pose Estimation using Semi-supervised
-Transductive Regression Forests
+Paper: Started and finish reading paper on Real-time Articulated Hand Pose Estimation using Semi-supervised Transductive Regression Forests
 
 **Thoughts:**  
 Hand Pose: -  
@@ -200,3 +199,17 @@ DotA_Predictor: -
 Paper: One of the earlier research on hand pose before CNNs. Random forest is something i'm not familiar with, need to do more reading.  
 
 **Link to work:** [Paper](http://openaccess.thecvf.com/content_iccv_2013/papers/Tang_Real-Time_Articulated_Hand_2013_ICCV_paper.pdf)
+
+### Day 16: 23 July 2018
+
+**Today's Progress**:  
+Hand Pose: Checked testing and validation progress and more training  
+DotA_Predictor: Didnt do much work on it today.  
+Paper: Started and finish reading paper on Efficient Hand Pose Estimation from a Single Depth Image
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: One of the earlier research on hand pose before CNNs. Also a very basic random forest approach
+
+**Link to work:** [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)
