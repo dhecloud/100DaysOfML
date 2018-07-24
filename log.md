@@ -213,3 +213,17 @@ DotA_Predictor: -
 Paper: One of the earlier research on hand pose before CNNs. Also a very basic random forest approach
 
 **Link to work:** [Paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)
+
+### Day 17: 24 July 2018
+
+**Today's Progress**:  
+Hand Pose: Increased learning rate  
+DotA_Predictor: Didnt do much work on it today.  
+Paper: -
+
+**Thoughts:**  
+Hand Pose: Think learning rate has been decaying too fast, reduced the learning rate drop.  
+DotA_Predictor: -  
+Paper: -
+
+**Link to work:** -
