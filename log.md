@@ -227,3 +227,17 @@ DotA_Predictor: -
 Paper: -
 
 **Link to work:** -
+
+### Day 18: 25 July 2018
+
+**Today's Progress**:  
+Hand Pose: increased training dataset size  
+DotA_Predictor: Didnt do much work on it today.  
+Paper: Started reading DensePose, a SOTA human pose estimation released by facebook
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: So far there has a lot of work done on making a good dataset (densepose-coco). I guess having a good dataset is already half the battle won
+
+**Link to work:** [Paper](https://arxiv.org/pdf/1802.00434.pdf)
