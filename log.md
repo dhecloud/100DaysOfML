@@ -241,3 +241,17 @@ DotA_Predictor: -
 Paper: So far there has a lot of work done on making a good dataset (densepose-coco). I guess having a good dataset is already half the battle won
 
 **Link to work:** [Paper](https://arxiv.org/pdf/1802.00434.pdf)
+
+### Day 19: 26 July 2018
+
+**Today's Progress**:  
+Hand Pose: continue training  
+DotA_Predictor: Did some work to continue crawling data and add some features  
+Paper: Finished reading DensePose, a SOTA human pose estimation released by facebook  
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: Reason why i been procrasinating seems to be that data collection is always very tedious.. just have to get it over and done with :(  
+Paper: Seems to be a mixture of all the techniques used for body pose estimation so far: cascading, RPN, and a novel technique which removes background
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1802.00434.pdf) [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/53273cdc95145948a4a25f4786975b8c5f0757cb)
