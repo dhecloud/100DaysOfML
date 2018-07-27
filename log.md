@@ -255,3 +255,17 @@ DotA_Predictor: Reason why i been procrasinating seems to be that data collectio
 Paper: Seems to be a mixture of all the techniques used for body pose estimation so far: cascading, RPN, and a novel technique which removes background
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1802.00434.pdf) [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/53273cdc95145948a4a25f4786975b8c5f0757cb)
+
+### Day 20: 27 July 2018
+
+**Today's Progress**:  
+Hand Pose: continue training  
+DotA_Predictor: Added more features for gold and xp dependency
+Paper: No papers today
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: Data done and ready to be collected. Now to think of meaningful features. I understand the data and the gameplay pretty well so i should be able to provide a deeper analysis
+Paper: -
+
+**Link to work:** [Commit](https://github.com/dhecloud/DotA_Predictor/commit/6946aa4b547ca21cccd38264170341ffd4ae9ef3)
