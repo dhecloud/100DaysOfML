@@ -269,3 +269,17 @@ DotA_Predictor: Data done and ready to be collected. Now to think of meaningful 
 Paper: -
 
 **Link to work:** [Commit](https://github.com/dhecloud/DotA_Predictor/commit/6946aa4b547ca21cccd38264170341ffd4ae9ef3)
+
+### Day 21: 28 July 2018
+
+**Today's Progress**:  
+Hand Pose: continue training  
+DotA_Predictor: Finished adding code for training, testing and data collection
+Paper: No papers today
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: Training and testing accuracy currently stands at 70%, which is 10% higher than what i got previously. Also, I also do think my code is now more robust than the previous iteration. yay!  
+Paper: -  
+
+**Link to work:** [Commit](https://github.com/dhecloud/DotA_Predictor/commit/9f1f41c828c5dad9bc5f99666089a54dd419996c)
