@@ -283,3 +283,17 @@ DotA_Predictor: Training and testing accuracy currently stands at 70%, which is 
 Paper: -  
 
 **Link to work:** [Commit](https://github.com/dhecloud/DotA_Predictor/commit/9f1f41c828c5dad9bc5f99666089a54dd419996c)
+
+### Day 22: 29 July 2018
+
+**Today's Progress**:  
+Hand Pose: continue training  
+DotA_Predictor: Added 1 more feature  
+Paper: Started reading a paper about GAN  
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: GANs is a part of computer vision i have not really read much about. Will be exciting to read about different kinds of GANs beyond the basic one.
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/52f1f1c67796decd95cf3038ab3e86cd65d10185) [(Paper)](https://arxiv.org/pdf/1807.09251.pdf)
