@@ -297,3 +297,17 @@ DotA_Predictor: -
 Paper: GANs is a part of computer vision i have not really read much about. Will be exciting to read about different kinds of GANs beyond the basic one.
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/52f1f1c67796decd95cf3038ab3e86cd65d10185) [(Paper)](https://arxiv.org/pdf/1807.09251.pdf)
+
+### Day 23: 30 July 2018
+
+**Today's Progress**:  
+Hand Pose: continue training  
+DotA_Predictor: added team complexity feature
+Paper: continued reading GANimation
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Reading is slowly because i had to read up on some new terms halfway. Also this is an unsupervised method which i am not familiar with
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/bb518270607acdf1970c6e0ecc9fc28baf1300e8) [(Paper)](https://arxiv.org/pdf/1807.09251.pdf)
