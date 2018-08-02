@@ -336,6 +336,20 @@ Paper: Finished reading Tacotron.
 **Thoughts:**  
 Hand Pose: -  
 DotA_Predictor: Just constantly adding new features when i think of it  
-Paper: Text-to-speech seems to be a pretty hard problem with various approaches
+Paper: Text-to-speech seems to be a pretty hard problem with various approaches  
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1703.10135.pdf)
+
+### Day 26: 2 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: Tried to implement a MLP from scratch in pytorch  
+Paper: Finished reading GAN - the original paper
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: Implementing in pytorch was pretty fast, but training results are different from sklearn's wrapper. Probably got to do with learning rates  
+Paper: Getting familiar with the basics  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/cfe5f891d66dc0f79504091574a8072da4beeeba) [(Paper)](https://arxiv.org/pdf/1406.2661.pdf)
