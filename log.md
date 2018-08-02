@@ -315,9 +315,9 @@ Paper: Reading is slowly because i had to read up on some new terms halfway. Als
 ### Day 24: 31 July 2018
 
 **Today's Progress**:  
-Hand Pose: Checked how to integrate it using pykinect
-DotA_Predictor: Collecting data mostly, about 16k now.
-Paper: Finished reading GANimation. 
+Hand Pose: Checked how to integrate it using pykinect  
+DotA_Predictor: Collecting data mostly, about 16k now.  
+Paper: Finished reading GANimation. Started reading Tacotron  
 
 **Thoughts:**  
 Hand Pose: Using pykinect seems easy enough, but i will have to go down to the lab where the kinect is to give it a try.  
@@ -325,3 +325,17 @@ DotA_Predictor: Seems to be mostly done - all that's left is collecting enough d
 Paper: Unsupervised training is definitely a lot more work and uses more complicated metrics for loss and training. Will read the original GAN paper to give me a better foundation  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/00945e5ad5dbb326187567105ebc9d9a4de9eadf) [(Paper 1)](https://arxiv.org/pdf/1807.09251.pdf) [(Paper 2)](https://arxiv.org/pdf/1703.10135.pdf)
+
+### Day 25: 1 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: Collecting data mostly, about 30k now  
+Paper: Finished reading Tacotron.
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: Just constantly adding new features when i think of it  
+Paper: Text-to-speech seems to be a pretty hard problem with various approaches
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1703.10135.pdf)
