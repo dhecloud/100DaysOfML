@@ -353,3 +353,17 @@ DotA_Predictor: Implementing in pytorch was pretty fast, but training results ar
 Paper: Getting familiar with the basics  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/DotA_Predictor/commit/cfe5f891d66dc0f79504091574a8072da4beeeba) [(Paper)](https://arxiv.org/pdf/1406.2661.pdf)
+
+### Day 27: 3 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: - 
+Paper: Started reading StarGAN 
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -
+Paper: StarGAN has a pretty novel architecture to deal with multi domain learning. I wonder if there are any other naturally occuring shapes or design that we can be inspired by
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1711.09020.pdf)
