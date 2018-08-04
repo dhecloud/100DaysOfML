@@ -358,12 +358,26 @@ Paper: Getting familiar with the basics
 
 **Today's Progress**:  
 Hand Pose: -  
-DotA_Predictor: - 
+DotA_Predictor: -  
 Paper: Started reading StarGAN 
 
 **Thoughts:**  
 Hand Pose: -  
-DotA_Predictor: -
+DotA_Predictor: -  
 Paper: StarGAN has a pretty novel architecture to deal with multi domain learning. I wonder if there are any other naturally occuring shapes or design that we can be inspired by
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1711.09020.pdf)
+
+### Day 27: 4 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: - 
+Paper: Finished reading StarGAN 
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Thinking up new formulaes for loss functions requires a fair bit of intuition and mathematical background. Hope i can get to that stage one day
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1711.09020.pdf)
