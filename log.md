@@ -381,3 +381,17 @@ DotA_Predictor: -
 Paper: Thinking up new formulaes for loss functions requires a fair bit of intuition and mathematical background. Hope i can get to that stage one day
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1711.09020.pdf)
+
+### Day 28: 5 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: - 
+Paper: Started and finished reading pix2pix on Image-to-Image Translation using cGANs
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: GANs seem very promising in creating new content. I wonder if i can use speech data in GANs too
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1611.07004.pdf)
