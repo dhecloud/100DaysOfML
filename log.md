@@ -395,3 +395,17 @@ DotA_Predictor: -
 Paper: GANs seem very promising in creating new content. I wonder if i can use speech data in GANs too
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1611.07004.pdf)
+
+### Day 29: 6 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: Reduced size of NN  
+Paper: Started and finished reading Context encoders: inpainting
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: Reduced the size of the NN and to my surprise it performed better, albeit with lower training accuracy. This might be the case of occam razor, where a smaller NN might be a better one  
+Paper: Inpainting is a niche area with pratical uses. GANs which i have been reading thus far seems to have similar approaches and learning lessons.
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1604.07379.pdf)
