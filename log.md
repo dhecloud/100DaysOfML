@@ -409,3 +409,17 @@ DotA_Predictor: Reduced the size of the NN and to my surprise it performed bette
 Paper: Inpainting is a niche area with pratical uses. GANs which i have been reading thus far seems to have similar approaches and learning lessons.
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1604.07379.pdf)
+
+### Day 30: 7 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Started and finished reading deep multi-scale video prediction
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: This paper uses a more engineering approach in solving this problem. Evaluation metrics are different. Predicting the future in my opinion is a very hard task and will take a lot more research to fully solve  
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1511.05440.pdf)
