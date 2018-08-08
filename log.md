@@ -423,3 +423,17 @@ DotA_Predictor: -
 Paper: This paper uses a more engineering approach in solving this problem. Evaluation metrics are different. Predicting the future in my opinion is a very hard task and will take a lot more research to fully solve  
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1511.05440.pdf)
+
+### Day 31: 8 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Started and finished reading Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: super-resolution is a common practical application. With further research, it might be possible to even up-resolution old movies. I wonder what is the upper limit on up-resolutions. Can it go beyond 8K?
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1609.04802.pdf)
