@@ -437,3 +437,17 @@ DotA_Predictor: -
 Paper: super-resolution is a common practical application. With further research, it might be possible to even up-resolution old movies. I wonder what is the upper limit on up-resolutions. Can it go beyond 8K?
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1609.04802.pdf)
+
+### Day 32: 9 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: Tried fine-tuning hyper-parameters of xgboost
+Paper: Started and finished reading Unsupervised Image-to-Image Translation Networks  
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: Finetuning didnt really work. Data is capped currently too because of api limit. 73% on mlp is the best result so far.    
+Paper: This paper was quite mathematical and slightly more theoretical than what i am used to. Quite surprised that i was able to understand most of it. Also learned some new terms.  
+
+**Link to work:** [(Paper)](https://papers.nips.cc/paper/6672-unsupervised-image-to-image-translation-networks.pdf)
