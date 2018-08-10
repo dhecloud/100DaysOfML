@@ -442,7 +442,7 @@ Paper: super-resolution is a common practical application. With further research
 
 **Today's Progress**:  
 Hand Pose: -  
-DotA_Predictor: Tried fine-tuning hyper-parameters of xgboost
+DotA_Predictor: Tried fine-tuning hyper-parameters of xgboost  
 Paper: Started and finished reading Unsupervised Image-to-Image Translation Networks  
 
 **Thoughts:**  
@@ -451,3 +451,17 @@ DotA_Predictor: Finetuning didnt really work. Data is capped currently too becau
 Paper: This paper was quite mathematical and slightly more theoretical than what i am used to. Quite surprised that i was able to understand most of it. Also learned some new terms.  
 
 **Link to work:** [(Paper)](https://papers.nips.cc/paper/6672-unsupervised-image-to-image-translation-networks.pdf)
+
+### Day 33: 10 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Started reading Auto-Encoding Variational Bayes
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: This paper is a pretty popular paper and served as the foundation of several SOTA GANs. It is also very mathematical and is pretty much testing my knowledge of stats and probability. Taking a longer time to read this. 
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1312.6114.pdf)
