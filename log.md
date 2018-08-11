@@ -465,3 +465,17 @@ DotA_Predictor: -
 Paper: This paper is a pretty popular paper and served as the foundation of several SOTA GANs. It is also very mathematical and is pretty much testing my knowledge of stats and probability. Taking a longer time to read this. 
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1312.6114.pdf)
+
+### Day 34: 11 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Finished reading Auto-Encoding Variational Bayes
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Very mathematical. I gained a little insight behind the workings of VAEs, though i skimmed through some parts because it was getting too dry.
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1312.6114.pdf)
