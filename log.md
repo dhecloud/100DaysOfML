@@ -479,3 +479,17 @@ DotA_Predictor: -
 Paper: Very mathematical. I gained a little insight behind the workings of VAEs, though i skimmed through some parts because it was getting too dry.
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1312.6114.pdf)
+
+### Day 35: 12 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: Started reading DiscoGAN
+
+**Thoughts:**  
+Hand Pose: -  
+DotA_Predictor: -  
+Paper: -
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1703.05192.pdf)
