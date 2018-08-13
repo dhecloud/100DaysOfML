@@ -493,3 +493,17 @@ DotA_Predictor: -
 Paper: -
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1703.05192.pdf)
+
+### Day 36: 13 August 2018
+
+**Today's Progress**:  
+Hand Pose: Changed dataloading code to generate transformation on the fly  
+DotA_Predictor: -  
+Paper: Finished reading DiscoGAN
+
+**Thoughts:**  
+Hand Pose: Trying out the free gpu cluster is troublesome as i cannot save the data to the remote server. Though i guess doing data augmentation on the fly is much better.  
+DotA_Predictor: -  
+Paper: Didnt really seem ground-breaking to me. Just a simple case of more (GANs) is more
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1703.05192.pdf) [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f747a99d1bf6334082cfc453653368f23e53203d)
