@@ -507,3 +507,17 @@ DotA_Predictor: -
 Paper: Didnt really seem ground-breaking to me. Just a simple case of more (GANs) is more
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1703.05192.pdf) [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f747a99d1bf6334082cfc453653368f23e53203d)
+
+### Day 37: 14 August 2018
+
+**Today's Progress**:  
+Hand Pose: Changed some code to work on linux distros  
+DotA_Predictor: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: Spent most of the time today debugging and trying to get it to work on RedHat. Not really ML, but related i guess  
+DotA_Predictor: -  
+Paper: -
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/06af49540a1e086bd9c57e96e4c2aa8a91d5d8d2)
