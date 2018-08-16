@@ -535,3 +535,15 @@ DotA_Predictor: Prolly done with this project for now until i get new ideas. Not
 Paper: -
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/e9516e4422bc89af12b9cce0824a91df0582f407)
+
+### Day 39: 16 August 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Paper: Started reading CycleGAN  
+
+**Thoughts:**  
+Hand Pose: -   
+Paper: CycleGAN seems to be pretty similar to Disco GAN. i googled and seems like the differences are in the loss functions, but they are pretty minor. CycleGAN also has an addition hyperparameter to adjust contribution of reconstruction loss. 
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1703.10593.pdf)
