@@ -521,3 +521,17 @@ DotA_Predictor: -
 Paper: -
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/06af49540a1e086bd9c57e96e4c2aa8a91d5d8d2)
+
+### Day 38: 15 August 2018
+
+**Today's Progress**:  
+Hand Pose: Final update for linux distros. Also added full set of the dataset  
+DotA_Predictor: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: Finally got it to work on the HPC. Also added full dataset so that it can potentially give better results  
+DotA_Predictor: Prolly done with this project for now until i get new ideas. Not including this project in future journals   
+Paper: -
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/e9516e4422bc89af12b9cce0824a91df0582f407)
