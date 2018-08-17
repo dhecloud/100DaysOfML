@@ -547,3 +547,15 @@ Hand Pose: -
 Paper: CycleGAN seems to be pretty similar to Disco GAN. i googled and seems like the differences are in the loss functions, but they are pretty minor. CycleGAN also has an addition hyperparameter to adjust contribution of reconstruction loss. 
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1703.10593.pdf)
+
+### Day 40: 17 August 2018
+
+**Today's Progress**:  
+Hand Pose: Added code for augmenting data - rotation and scaling    
+Paper: Finished reading CycleGAN  
+
+**Thoughts:**  
+Hand Pose: Initially thought that tracking landmarks for rotation and scaling would be extremely hard, but turned out easier than expected.  
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/6a35c949994695c6d9ea0ce13a7fbe7a113d9f23) [(Paper)](https://arxiv.org/pdf/1703.10593.pdf)
