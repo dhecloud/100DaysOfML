@@ -559,3 +559,15 @@ Hand Pose: Initially thought that tracking landmarks for rotation and scaling wo
 Paper: -  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/6a35c949994695c6d9ea0ce13a7fbe7a113d9f23) [(Paper)](https://arxiv.org/pdf/1703.10593.pdf)
+
+### Day 41: 18 August 2018
+
+**Today's Progress**:  
+Hand Pose: Did more training  
+Paper: Played around with the code for CycleGAN    
+
+**Thoughts:**  
+Hand Pose: Thought increasing the batch size and data would help with the training, but strangely it did badly on the validation set and even on training data. Need to figure out what went wrong. Gonna tune hyperparameters for now.  
+Paper: CycleGAN really needs a lot of GPU memory. I cannot even run it on my 940m GPU. Even with batch size =1, it takes up 3.5G RAM apparently.  
+
+**Link to work:** -
