@@ -571,3 +571,15 @@ Hand Pose: Thought increasing the batch size and data would help with the traini
 Paper: CycleGAN really needs a lot of GPU memory. I cannot even run it on my 940m GPU. Even with batch size =1, it takes up 3.5G RAM apparently.  
 
 **Link to work:** -
+
+### Day 42: 19 August 2018
+
+**Today's Progress**:  
+Hand Pose: cleanup round 1 
+Paper: Played around with the code for CycleGAN    
+
+**Thoughts:**  
+Hand Pose: cleaning up my code made me realise the importance of going through different approaches to data loading. i tried saving to disk first, then into h5py files, then finally doing augmentation on the fly. Easy to take for granted how many iterations code have gone through before the final product
+Paper: Going to try hand pose using cycleGAN which depth images translated to their joints. of course, the drawback is that we will not be able to get the joints coordinates directly.  
+
+**Link to work:** -
