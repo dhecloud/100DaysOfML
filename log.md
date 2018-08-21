@@ -582,4 +582,17 @@ Paper: Played around with the code for CycleGAN
 Hand Pose: cleaning up my code made me realise the importance of going through different approaches to data loading. i tried saving to disk first, then into h5py files, then finally doing augmentation on the fly. Easy to take for granted how many iterations code have gone through before the final product
 Paper: Going to try hand pose using cycleGAN which depth images translated to their joints. of course, the drawback is that we will not be able to get the joints coordinates directly.  
 
-**Link to work:** -
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/3cb1d7255657df9f4e470208ce9051de9b425436)
+
+### Day 43: 20 August 2018
+
+**Today's Progress**:  
+Hand Pose: major revamp for the network  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: Realised a major flaw in my code which in hindsight was quite stupid.   
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/7c116eb670c2794544915d6c936ca09692efd631)
+
