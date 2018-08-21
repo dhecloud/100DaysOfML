@@ -591,8 +591,20 @@ Hand Pose: major revamp for the network
 Paper: -   
 
 **Thoughts:**  
-Hand Pose: Realised a major flaw in my code which in hindsight was quite stupid.   
+Hand Pose: Realised a major flaw in my code which in hindsight was quite stupid. (layers cannot be reused!)  
 Paper: -  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/7c116eb670c2794544915d6c936ca09692efd631)
+
+### Day 44: 21 August 2018
+
+**Today's Progress**:  
+Hand Pose: cleanup round 2 and minor refactoring  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: tried to refactor code into the argparse way that most popular repos seem to code in     
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f7649a79d2c1ea0e49ac1e9703b79e43d3363652)
 
