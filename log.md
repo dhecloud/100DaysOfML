@@ -608,3 +608,15 @@ Paper: -
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/f7649a79d2c1ea0e49ac1e9703b79e43d3363652)
 
+
+### Day 45: 22 August 2018
+
+**Today's Progress**:  
+Hand Pose: training troubleshooting  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: Trying to figure out why training on a full dataset does not train well    
+Paper: -  
+
+**Link to work:** -
