@@ -620,3 +620,15 @@ Hand Pose: Trying to figure out why training on a full dataset does not train we
 Paper: -  
 
 **Link to work:** -
+
+### Day 46: 23 August 2018
+
+**Today's Progress**:  
+Hand Pose: More training, and minor cleanup  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: seems like when augmenting the data, it does not work as well. Maybe there is some problem with my augmentation    
+Paper: -  
+
+**Link to work:** -
