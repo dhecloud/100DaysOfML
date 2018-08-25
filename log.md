@@ -632,3 +632,15 @@ Hand Pose: seems like when augmenting the data, it does not work as well. Maybe 
 Paper: -  
 
 **Link to work:** -
+
+### Day 47: 24 August 2018
+
+**Today's Progress**:  
+Hand Pose: normalized ground truths  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: Problem with augmenting was that augmenting the image did not correspond to the same translation in the joints. had to translate the joints too before augmenting
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/4bd69ac97cbf782c54a98190850da766558e1d94)
