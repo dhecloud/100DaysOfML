@@ -644,3 +644,16 @@ Hand Pose: Problem with augmenting was that augmenting the image did not corresp
 Paper: -  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/4bd69ac97cbf782c54a98190850da766558e1d94)
+
+
+### Day 48: 25 August 2018
+
+**Today's Progress**:  
+Hand Pose: Fixed normalization  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: fixed normalization of joints. hope it goes well. cant seem to get the first iteration of my implementation right, which wastes a lot of time
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/160c7071eae56f528b9bd727a97ff8253913e9cf)
