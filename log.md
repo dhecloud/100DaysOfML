@@ -657,3 +657,17 @@ Hand Pose: fixed normalization of joints. hope it goes well. cant seem to get th
 Paper: -  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/160c7071eae56f528b9bd727a97ff8253913e9cf)
+
+### Day 49: 26 August 2018
+
+**Today's Progress**:  
+Hand Pose: More debugging, added minor features  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: Cant figure out why in the world is the training not going well
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/a9fcedd027d740561f9765558423ab2a143462d7)
+
+
