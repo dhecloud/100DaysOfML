@@ -665,9 +665,19 @@ Hand Pose: More debugging, added minor features
 Paper: -   
 
 **Thoughts:**  
-Hand Pose: Cant figure out why in the world is the training not going well
+Hand Pose: Cant figure out why in the world is the training not going well  
 Paper: -  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/a9fcedd027d740561f9765558423ab2a143462d7)
 
+### Day 50: 27 August 2018
 
+**Today's Progress**:  
+Hand Pose: Added xavier initialization and custom smooth l1 loss according to the paper  
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: Cant figure out why in the world is the training not going well. Reached out to stack overflow and forums for help :(
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/ba83cb1ef0af6bc6eca3acffcf02ad7b7a89a3a8)
