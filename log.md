@@ -677,7 +677,21 @@ Hand Pose: Added xavier initialization and custom smooth l1 loss according to th
 Paper: -   
 
 **Thoughts:**  
-Hand Pose: Cant figure out why in the world is the training not going well. Reached out to stack overflow and forums for help :(
+Hand Pose: Cant figure out why in the world is the training not going well. Reached out to stack overflow and forums for help :(  
 Paper: -  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/ba83cb1ef0af6bc6eca3acffcf02ad7b7a89a3a8)
+
+### Day 51: 28 August 2018
+
+**Today's Progress**:  
+Hand Pose: Solved problem. Fully working code  
+Kaggle: Saw this competition on detecting pneumonia from radiographs. 
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: Turned out error was really silly. indexing tensors in pytorch are called by reference and new variables are not created.  
+Kaggle: Might focus on this project once the hand pose project is concluded  
+Paper: -  
+
+**Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/d7bce10e2f691a32f0996b669b07324ee336c62c) [(Kaggle)](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
