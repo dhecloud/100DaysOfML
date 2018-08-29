@@ -695,3 +695,17 @@ Kaggle: Might focus on this project once the hand pose project is concluded
 Paper: -  
 
 **Link to work:** [(Commit)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/d7bce10e2f691a32f0996b669b07324ee336c62c) [(Kaggle)](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
+
+### Day 52: 29 August 2018
+
+**Today's Progress**:  
+Hand Pose: -    
+Kaggle: Checked out the dcm files and read up a bit on rcnn
+Paper: -   
+
+**Thoughts:**  
+Hand Pose: Training is going fine. Augmentation is kind of making the results weird though.  
+Kaggle: Have a few ideas on how to approch this, but i will probably try out the faster-rcnn architecture on it first.
+Paper: -  
+
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/8276444e80d2aa0fa2570212ebf075d70ec44c44) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commits/master)
