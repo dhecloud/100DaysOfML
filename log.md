@@ -708,4 +708,18 @@ Hand Pose: Training is going fine. Augmentation is kind of making the results we
 Kaggle: Have a few ideas on how to approch this, but i will probably try out the faster-rcnn architecture on it first.
 Paper: -  
 
-**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/8276444e80d2aa0fa2570212ebf075d70ec44c44) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commits/master)
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/8276444e80d2aa0fa2570212ebf075d70ec44c44) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/5032cc39c497ae577612ad4a25a8b111238492d3)
+
+### Day 53: 30 August 2018
+
+**Today's Progress**:  
+Hand Pose: -    
+Kaggle: Coded a little more, using resnet as starter code
+Paper: Started on fast RCNN paper  
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: Posing the problem as a classification problem first, and see if the postive/negative images can be distinguished  
+Paper: wanted to revise on selective search and the fast rcnn architecture  
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1311.2524.pdf) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/13d32893e59d1b93659e3c1520fdf6170d26ac1a)
