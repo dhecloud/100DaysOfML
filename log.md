@@ -723,3 +723,17 @@ Kaggle: Posing the problem as a classification problem first, and see if the pos
 Paper: wanted to revise on selective search and the fast rcnn architecture  
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1311.2524.pdf) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/13d32893e59d1b93659e3c1520fdf6170d26ac1a)
+
+### Day 54: 31 August 2018
+
+**Today's Progress**:  
+Hand Pose: -    
+Kaggle: Tried adapting rcnn and unet  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: Trying to adapt faster-rcnn and unet and see if it works  
+Paper: -
+
+**Link to work:** [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/10e6cfcfe4623882e9af603bd44dfd2854e8f30f)
