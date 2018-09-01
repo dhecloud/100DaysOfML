@@ -686,7 +686,7 @@ Paper: -
 
 **Today's Progress**:  
 Hand Pose: Solved problem. Fully working code  
-Kaggle: Saw this competition on detecting pneumonia from radiographs. 
+Kaggle: Saw this competition on detecting pneumonia from radiographs.  
 Paper: -   
 
 **Thoughts:**  
@@ -700,12 +700,12 @@ Paper: -
 
 **Today's Progress**:  
 Hand Pose: -    
-Kaggle: Checked out the dcm files and read up a bit on rcnn
+Kaggle: Checked out the dcm files and read up a bit on rcnn  
 Paper: -   
 
 **Thoughts:**  
 Hand Pose: Training is going fine. Augmentation is kind of making the results weird though.  
-Kaggle: Have a few ideas on how to approch this, but i will probably try out the faster-rcnn architecture on it first.
+Kaggle: Have a few ideas on how to approach this, but i will probably try out the faster-rcnn architecture on it first.  
 Paper: -  
 
 **Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/8276444e80d2aa0fa2570212ebf075d70ec44c44) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/5032cc39c497ae577612ad4a25a8b111238492d3)
@@ -714,8 +714,8 @@ Paper: -
 
 **Today's Progress**:  
 Hand Pose: -    
-Kaggle: Coded a little more, using resnet as starter code
-Paper: Started on fast RCNN paper  
+Kaggle: Coded a little more, using resnet as starter code  
+Paper: Started on RCNN paper  
 
 **Thoughts:**  
 Hand Pose: -   
@@ -737,3 +737,17 @@ Kaggle: Trying to adapt faster-rcnn and unet and see if it works
 Paper: -
 
 **Link to work:** [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/10e6cfcfe4623882e9af603bd44dfd2854e8f30f)
+
+### Day 55: 1 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: More adaptions to code  
+Paper: Almost finished RCNN paper  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: trying to get the code working on the server    
+Paper: Main body of the paper did not feel very insightful. Appendix seems to contain more intuition
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1311.2524.pdf) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/9139ae9a9f16031dacad46694d1192c2c263ba7a)
