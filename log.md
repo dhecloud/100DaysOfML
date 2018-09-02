@@ -751,3 +751,17 @@ Kaggle: trying to get the code working on the server
 Paper: Main body of the paper did not feel very insightful. Appendix seems to contain more intuition
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1311.2524.pdf) [(Kaggle)](https://github.com/dhecloud/Kaggle-Challenge/commit/9139ae9a9f16031dacad46694d1192c2c263ba7a)
+
+### Day 56: 2 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: -  
+Paper: Finished RCNN paper  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -    
+Paper: -  
+
+**Link to work:** [(Paper)](https://arxiv.org/pdf/1311.2524.pdf)
