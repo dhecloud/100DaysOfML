@@ -765,3 +765,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** [(Paper)](https://arxiv.org/pdf/1311.2524.pdf)
+
+### Day 57: 3 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: Spent some time trying to debug  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: Tried to build pytorch from scratch.. running into some cuda errors now T.T sucks to have no sudo access
+Paper: -  
+
+**Link to work:** -  
