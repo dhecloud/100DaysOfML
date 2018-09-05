@@ -779,3 +779,17 @@ Kaggle: Tried to build pytorch from scratch.. running into some cuda errors now 
 Paper: -  
 
 **Link to work:** -  
+
+### Day 58: 4 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: Spent some time trying to debug  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: Just another day of doing the same thing
+Paper: -  
+
+**Link to work:** -  
