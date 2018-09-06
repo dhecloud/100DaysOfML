@@ -793,3 +793,17 @@ Kaggle: Just another day of doing the same thing
 Paper: -  
 
 **Link to work:** -  
+
+### Day 59: 5 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: Spent some time trying to debug  
+Paper: Started reading selective search paper    
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: Just another day of doing the same thing
+Paper: Selective search surprisingly turned out to be a graph problem
+
+**Link to work:** [(Paper)](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf)
