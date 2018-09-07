@@ -807,3 +807,17 @@ Kaggle: Just another day of doing the same thing
 Paper: Selective search surprisingly turned out to be a graph problem
 
 **Link to work:** [(Paper)](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf)
+
+### Day 60: 6 September 2018
+
+**Today's Progress**:  
+Hand Pose: Tried to extract the hand depth image from the kinect  
+Kaggle: -  
+Paper: -
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: -  
+Paper: -  
+
+**Link to work:** -  
