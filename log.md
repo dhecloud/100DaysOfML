@@ -821,3 +821,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** -  
+
+### Day 61: 7 September 2018
+
+**Today's Progress**:  
+Hand Pose: Tried to build pytorch from source  
+Kaggle: -  
+Paper: Continued reading Selective Search
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: -  
+Paper: -  
+
+**Link to work:** [(Paper)](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf)
