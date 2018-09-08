@@ -835,3 +835,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** [(Paper)](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf)
+
+### Day 62: 8 September 2018
+
+**Today's Progress**:  
+Hand Pose: Started writing the report draft  
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: -  
+Paper: -  
+
+**Link to work:** -  
