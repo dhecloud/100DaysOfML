@@ -849,3 +849,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** -  
+
+### Day 63: 9 September 2018
+
+**Today's Progress**:  
+Hand Pose: Wrote the report draft. Wrote the README. slight refactoring.
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: -  
+Paper: -  
+
+**Link to work:** - [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/c7ced31b822caa917fdf92e14252a39967220ee4) 
