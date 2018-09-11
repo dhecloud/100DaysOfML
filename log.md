@@ -877,3 +877,17 @@ Kaggle: Docker tutorial has really improved
 Paper: -  
 
 **Link to work:** - 
+
+### Day 65: 11 September 2018
+
+**Today's Progress**:  
+Hand Pose: Continued writing paper, grew graphs
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: apparently NSCC does not allow docker, have to use singularity :(
+Paper: -  
+
+**Link to work:** - 
