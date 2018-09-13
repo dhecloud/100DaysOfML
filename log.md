@@ -891,3 +891,18 @@ Kaggle: apparently NSCC does not allow docker, have to use singularity :(
 Paper: -  
 
 **Link to work:** - 
+
+### Day 66: 12 September 2018
+
+**Today's Progress**:  
+Hand Pose: -
+Kaggle: Read a little on singularity  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -   
+Kaggle: -  
+Paper: -  
+
+**Link to work:** - 
+
