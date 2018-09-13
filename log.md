@@ -906,3 +906,16 @@ Paper: -
 
 **Link to work:** - 
 
+### Day 66: 13 September 2018
+
+**Today's Progress**:  
+Hand Pose: separated plotting code  
+Kaggle: Read a little on singularity  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/c60dc8a9984213388b9626ac2236f809180a248b) 
