@@ -906,7 +906,7 @@ Paper: -
 
 **Link to work:** - 
 
-### Day 66: 13 September 2018
+### Day 67: 13 September 2018
 
 **Today's Progress**:  
 Hand Pose: separated plotting code  
@@ -919,3 +919,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/c60dc8a9984213388b9626ac2236f809180a248b) 
+
+### Day 68: 14 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: Tried to made singularity work  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: By now i think i am pretty compentent in docker.. with all the conversion to singularity and what not   
+Paper: -  
+
+**Link to work:** -
