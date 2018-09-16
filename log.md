@@ -933,3 +933,17 @@ Kaggle: By now i think i am pretty compentent in docker.. with all the conversio
 Paper: -  
 
 **Link to work:** -
+
+### Day 69: 15 September 2018
+
+**Today's Progress**:  
+Hand Pose: Did a bit of brainstorming on how to improve the report  
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+
+**Link to work:** -
