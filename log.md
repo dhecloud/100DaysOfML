@@ -961,3 +961,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** -
+
+### Day 71: 17 September 2018
+
+**Today's Progress**:  
+Hand Pose: Refactored some code and added some minor testing code for calculating MAE  
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/aeab938453961b2c993990dfc9ab62f13538071c) 
