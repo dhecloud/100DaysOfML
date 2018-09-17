@@ -947,3 +947,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** -
+
+### Day 70: 16 September 2018
+
+**Today's Progress**:  
+Hand Pose: -
+Kaggle: Read a bit of singularity documentation
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+
+**Link to work:** -
