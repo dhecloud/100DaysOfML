@@ -975,3 +975,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/aeab938453961b2c993990dfc9ab62f13538071c) 
+
+### Day 72: 18 September 2018
+
+**Today's Progress**:  
+Hand Pose: Continued writing report  
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+
+**Link to work:** -
