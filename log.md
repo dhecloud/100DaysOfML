@@ -989,3 +989,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** -
+
+### Day 73: 19 September 2018
+
+**Today's Progress**:  
+Hand Pose: Redid many experiments   
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: Redid many experiments for formality and consistency sake. Made me realise that hyperparameters really did play a big part in improving the results  
+Kaggle: -  
+Paper: -  
+
+**Link to work:** -
