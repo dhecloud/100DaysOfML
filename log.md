@@ -1003,3 +1003,17 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** -
+
+### Day 74: 20 September 2018
+
+**Today's Progress**:  
+Hand Pose: Did some kinect code     
+Kaggle: -  
+Paper: -  
+
+**Thoughts:**  
+Hand Pose: Not sure if it's the camera or.. but the kinect is giving me weird depth images :/  
+Kaggle: -  
+Paper: -  
+
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/e9060039e6cdee435100debc3a740f1fb9161a42) 
