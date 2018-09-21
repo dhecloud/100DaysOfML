@@ -1017,3 +1017,20 @@ Kaggle: -
 Paper: -  
 
 **Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/e9060039e6cdee435100debc3a740f1fb9161a42) 
+
+### Day 75: 21 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Coded some MLPs in pytorch from scratch.  
+
+
+**Thoughts:**  
+Hand Pose:  
+Kaggle: -  
+Paper: -  
+School: Nothing i haven't done before
+
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/83031499bde19fcc394b666fd0f38f24140202e0) 
