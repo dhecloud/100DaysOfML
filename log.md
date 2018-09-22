@@ -1033,4 +1033,21 @@ Kaggle: -
 Paper: -  
 School: Nothing i haven't done before
 
-**Link to work:** [(Hand Pose)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/83031499bde19fcc394b666fd0f38f24140202e0) 
+**Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/83031499bde19fcc394b666fd0f38f24140202e0) 
+
+### Day 76: 22 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Finished up the assignment
+
+
+**Thoughts:**  
+Hand Pose:  
+Kaggle: -  
+Paper: -  
+School: Proud of myself for finishing it in 2 days!
+
+**Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/400227a3eda54d44ef5e56092e97a29555670444) 
