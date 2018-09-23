@@ -1051,3 +1051,20 @@ Paper: -
 School: Proud of myself for finishing it in 2 days!
 
 **Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/400227a3eda54d44ef5e56092e97a29555670444) 
+
+### Day 767: 23 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Finished up the assignment
+
+
+**Thoughts:**  
+Hand Pose:  
+Kaggle: -  
+Paper: -  
+School: Redid some experiments and finalized everything
+
+**Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/5f10bccad860f5e32826133542014951c8baaafc) 
