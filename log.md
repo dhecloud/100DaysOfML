@@ -1085,3 +1085,20 @@ Paper: -
 School: -
 
 **Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/6ec06446bb60530aebe59e8699c49cef41d3e83f) 
+
+### Day 79: 25 September 2018
+
+**Today's Progress**:  
+Hand Pose: Continued writing and improving report  
+Kaggle: -  
+Paper: -  
+School: redid a section for k-fold validation  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: k-fold validation is so tedious!
+
+**Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/4921354c26f8c862bad9243dfd3fcfe5d309e67a) 
