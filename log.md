@@ -1119,3 +1119,20 @@ Paper: -
 School: -  
 
 **Link to work:** -  
+
+### Day 81: 27 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: finally managed to get containers to work  
+Paper: -  
+School: redid a section for k-fold validation. Wrote some specific plotting codes  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: so happy that i can finally train!! even though its a little too late.   
+Paper: -  
+School: -  
+
+**Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/7e1efe2bd0d0a2b7013074c4ee837ae3b0ddd471) 
