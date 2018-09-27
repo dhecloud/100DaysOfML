@@ -1102,3 +1102,20 @@ Paper: -
 School: k-fold validation is so tedious!
 
 **Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/4921354c26f8c862bad9243dfd3fcfe5d309e67a) 
+
+### Day 80: 26 September 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: redid training  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** -  
