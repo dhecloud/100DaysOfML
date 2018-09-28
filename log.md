@@ -1136,3 +1136,20 @@ Paper: -
 School: -  
 
 **Link to work:** [(School)](https://github.com/dhecloud/CZ4042-Assignment-1/commit/7e1efe2bd0d0a2b7013074c4ee837ae3b0ddd471) 
+
+### Day 82: 28 September 2018
+
+**Today's Progress**:  
+Hand Pose: Finished kinect code    
+Kaggle: finally managed to get containers to work  
+Paper: -  
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: somehow the trained checkpoints do not give good results?? thats kinda disappointing and annoying  
+Kaggle: -     
+Paper: -  
+School: -  
+
+**Link to work:** -  
