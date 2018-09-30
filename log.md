@@ -1170,3 +1170,20 @@ Paper: -
 School: -  
 
 **Link to work:** -  
+
+### Day 84: 30 September 2018
+
+**Today's Progress**:  
+Hand Pose: Finished fyp and report  
+Kaggle: -  
+Paper: -  
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: project is coming to a close. Yay!  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** - [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/fe8462d55e60aa3c111d9be40ea2e8e43813b22a) 
