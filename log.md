@@ -1153,3 +1153,20 @@ Paper: -
 School: -  
 
 **Link to work:** -  
+
+### Day 83: 29 September 2018
+
+**Today's Progress**:  
+Hand Pose: Retrained all experiments    
+Kaggle: -  
+Paper: -  
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: Finally have a working prototype. Yay!   
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** -  
