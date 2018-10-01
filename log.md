@@ -1186,4 +1186,21 @@ Kaggle: -
 Paper: -  
 School: -  
 
-**Link to work:** - [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/fe8462d55e60aa3c111d9be40ea2e8e43813b22a) 
+**Link to work:** [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/fe8462d55e60aa3c111d9be40ea2e8e43813b22a) 
+
+### Day 85: 1 October 2018
+
+**Today's Progress**:  
+Hand Pose: Touched up fyp  
+Kaggle: -  
+Paper: -  
+School: Helped friend with some code    
+
+
+**Thoughts:**  
+Hand Pose: prof forwarded me an email about something about a potential A. yay!  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** -  
