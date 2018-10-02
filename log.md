@@ -1204,3 +1204,20 @@ Paper: -
 School: -  
 
 **Link to work:** -  
+
+### Day 86: 2 October 2018
+
+**Today's Progress**:  
+Hand Pose: Started doing the poster  
+Kaggle: -  
+Paper: -  
+School: Did some deep learning tutorials  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Manually computing the gradients and back prop really made me appreciate pytorch  
+
+**Link to work:** -  
