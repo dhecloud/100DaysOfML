@@ -1221,3 +1221,20 @@ Paper: -
 School: Manually computing the gradients and back prop really made me appreciate pytorch  
 
 **Link to work:** -  
+
+### Day 87: 3 October 2018
+
+**Today's Progress**:  
+Hand Pose:  
+Kaggle: -  
+Paper: -  
+School: Helped a friend do some work.
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Learnt in detail about a lot of architectures like alexnet, squeezenet, densenet, which i heard of in passing but never really delved in deep.  
+
+**Link to work:** -  
