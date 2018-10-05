@@ -1238,3 +1238,20 @@ Paper: -
 School: Learnt in detail about a lot of architectures like alexnet, squeezenet, densenet, which i heard of in passing but never really delved in deep.  
 
 **Link to work:** -  
+
+### Day 88: 4 October 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Helped a friend do some work again.
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: -    
+
+**Link to work:** -  
