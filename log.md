@@ -1255,3 +1255,20 @@ Paper: -
 School: -    
 
 **Link to work:** -  
+
+### Day 89: 5 October 2018
+
+**Today's Progress**:  
+Hand Pose: Starting doing the demo video    
+Kaggle: -  
+Paper: -  
+School: Studied a little on my neural network mod  
+
+
+**Thoughts:**  
+Hand Pose: this is harder than machine learning T.T  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** -  
