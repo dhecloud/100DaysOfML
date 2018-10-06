@@ -1272,3 +1272,20 @@ Paper: -
 School: -  
 
 **Link to work:** -  
+
+### Day 90: 6 October 2018
+
+**Today's Progress**:  
+Hand Pose: Further touchups on report    
+Kaggle: -  
+Paper: -  
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** -  
