@@ -1289,3 +1289,20 @@ Paper: -
 School: -  
 
 **Link to work:** -  
+
+### Day 91: 7 October 2018
+
+**Today's Progress**:  
+Hand Pose: -     
+Kaggle: -  
+Paper: Completed Selective Search paper  
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: Havent had time to read this in a long while  
+School: -  
+
+**Link to work:** -  [(Paper)](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf)
