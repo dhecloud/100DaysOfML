@@ -1306,3 +1306,20 @@ Paper: Havent had time to read this in a long while
 School: -  
 
 **Link to work:** -  [(Paper)](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf)
+
+### Day 92: 8 October 2018
+
+**Today's Progress**:  
+Hand Pose: Major cleanup of code  
+Kaggle: -  
+Paper: -    
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** - [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/3f25a831854bb44e16c9c98b42fd9311744ba13b) 
