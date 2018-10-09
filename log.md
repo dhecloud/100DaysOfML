@@ -1323,3 +1323,20 @@ Paper: -
 School: -  
 
 **Link to work:** - [(Hand Pose)](https://github.com/dhecloud/Hand-Pose-for-Rheumatoid-Arthritis/commit/3f25a831854bb44e16c9c98b42fd9311744ba13b) 
+
+### Day 93: 9 October 2018
+
+**Today's Progress**:  
+Hand Pose: Changed more report stuff  
+Kaggle: Tried running faster-rcnn again now that i can run it on nscc  
+Paper: -    
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: Need to start reading on intern stuff soon..  
+School: -  
+
+**Link to work:** - 
