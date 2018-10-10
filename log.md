@@ -1340,3 +1340,20 @@ Paper: Need to start reading on intern stuff soon..
 School: -  
 
 **Link to work:** - 
+
+### Day 94: 10 October 2018
+
+**Today's Progress**:  
+Hand Pose: Changed more report stuff  
+Kaggle: - 
+Paper: -    
+School: -  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** - 
