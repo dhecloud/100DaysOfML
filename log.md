@@ -1357,3 +1357,20 @@ Paper: -
 School: -  
 
 **Link to work:** - 
+
+### Day 94: 11 October 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: - 
+Paper: -    
+School: Not much, but started revising the stanford materials again  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** - 
