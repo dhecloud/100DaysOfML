@@ -1358,7 +1358,7 @@ School: -
 
 **Link to work:** - 
 
-### Day 94: 11 October 2018
+### Day 95: 11 October 2018
 
 **Today's Progress**:  
 Hand Pose: -  
@@ -1372,5 +1372,22 @@ Hand Pose: -
 Kaggle: -  
 Paper: -  
 School: -  
+
+**Link to work:** - 
+
+### Day 96: 12 October 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: - 
+Paper: -    
+School: rewatching lecture 1 and 2 of the stanford nlp videoes  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Coming back to rewatch the materials again makes a lot more sense. If only ntu had subtitles for every lecture ;(  
 
 **Link to work:** - 
