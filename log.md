@@ -1391,3 +1391,20 @@ Paper: -
 School: Coming back to rewatch the materials again makes a lot more sense. If only ntu had subtitles for every lecture ;(  
 
 **Link to work:** - 
+
+### Day 97: 13 October 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: - 
+Paper: -    
+School: rewatching lecture 3 of the stanford nlp videoes  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: Gonna try doing the assignments in pytorch instead of tensorflow  
+
+**Link to work:** - 
