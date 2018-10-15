@@ -1408,3 +1408,20 @@ Paper: -
 School: Gonna try doing the assignments in pytorch instead of tensorflow  
 
 **Link to work:** - 
+
+### Day 98: 14 October 2018
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: - 
+Paper: -    
+School: Finished lecture 3 of the stanford nlp videoes  
+
+
+**Thoughts:**  
+Hand Pose: -  
+Kaggle: -  
+Paper: -  
+School: -  
+
+**Link to work:** - 
