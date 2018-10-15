@@ -1415,7 +1415,7 @@ School: Gonna try doing the assignments in pytorch instead of tensorflow
 Hand Pose: -  
 Kaggle: - 
 Paper: -    
-School: Finished lecture 3 of the stanford nlp videoes  
+School: Finished lecture 3 of the stanford nlp videos   
 
 
 **Thoughts:**  
@@ -1423,5 +1423,19 @@ Hand Pose: -
 Kaggle: -  
 Paper: -  
 School: -  
+
+**Link to work:** - 
+
+### Day 99: 15 October 2018 - Last day!
+
+**Today's Progress**:  
+Hand Pose: -  
+Kaggle: - 
+Paper: -    
+School: Finished lecture 4 of the stanford nlp video  
+
+
+**Thoughts:**  
+Overall thoughts: Happy to conclude 100 days of ML code! Though some days were tougher than the rest, this journey definitely taught me lots of new things - GANS, familiarizing myself with pytorch, deep cnns, docker, singularity, supercomputing and a little NLP. Looking back, its amazing how much i learnt in a period of 3 months. 
 
 **Link to work:** - 
